@@ -1,0 +1,35 @@
+////////////////////////////////////////////////////////////////////////////
+//
+//	Zachary S. Noonan
+// 	Assignment 5
+//	March 2, 2016
+//
+////////////////////////////////////////////////////////////////////////////
+
+public class RationalNum {
+	
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//DESCRIPTION:	This class takes two values and turns them into rational numbers
+//
+//INPUTS:		Two integer values
+//
+//
+//OUTPUTS:		The program will...
+//				- Convert ratio to simplified form
+//				- convert rational number to simplified form
+//				- return largest common factor
+//				- return rational number as double value
+//				- return rational number as a string in the form 'a/b'
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	public static void main(String[] args) {
+
+		RationalNumber ratNum1 = new RationalNumber(0, 1); //Creates a new instance of the class RationalNumber
+		
+	}
+	
+	
+	
+}

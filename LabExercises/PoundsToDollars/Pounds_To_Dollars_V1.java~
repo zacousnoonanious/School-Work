@@ -1,0 +1,18 @@
+public class Pounds_To_Dollars_V1
+{
+  
+  {
+    //create a double variable called pounds
+    
+    //create a scanner object to get user input
+    
+    //read user input and assign to pounds.
+    
+    //create double variable called dollars
+    //Domain knowledge 1 pound = 1.42 dollars
+    //multiply the pounds by 1.42
+    //print out dollars
+    
+  }
+  
+}
