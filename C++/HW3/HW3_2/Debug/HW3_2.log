@@ -1,0 +1,17 @@
+﻿Build started 10/28/2016 12:57:36 AM.
+     1>Project "C:\Users\zac\Documents\Visual Studio 2013\Projects\HW3_2\HW3_2\HW3_2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Date.cpp HW3_2.cpp
+         HW3_2.cpp
+         Date.cpp
+     1>c:\users\zac\documents\visual studio 2013\projects\hw3_2\hw3_2\date.cpp(22): warning C4804: '/' : unsafe use of type 'bool' in operation
+         Generating Code...
+     1>c:\users\zac\documents\visual studio 2013\projects\hw3_2\hw3_2\date.cpp(30): warning C4724: potential mod by 0
+     1>c:\users\zac\documents\visual studio 2013\projects\hw3_2\hw3_2\date.cpp(35): error C4716: 'Date::getYearValue' : must return a value
+     1>c:\users\zac\documents\visual studio 2013\projects\hw3_2\hw3_2\date.cpp(39): error C4716: 'Date::getMonthValue' : must return a value
+     1>c:\users\zac\documents\visual studio 2013\projects\hw3_2\hw3_2\date.cpp(26): warning C4715: 'Date::isLeapYear' : not all control paths return a value
+     1>Done Building Project "C:\Users\zac\Documents\Visual Studio 2013\Projects\HW3_2\HW3_2\HW3_2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.68
